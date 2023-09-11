@@ -1,3 +1,3 @@
-# A overly complext javascript bookmarklet
+# A overly complex javascript bookmarklet
 
-please ass the menu.js file as a bookmarklet (look up what that is and how to create it)
+please add the menu.js file as a bookmarklet (look up what that is and how to create it)
